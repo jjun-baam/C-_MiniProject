@@ -1,0 +1,16 @@
+E:\mySolution\MySolution2\과제_201730206_김준범\bin\Debug\과제_201730206_김준범.exe.config
+E:\mySolution\MySolution2\과제_201730206_김준범\bin\Debug\과제_201730206_김준범.exe
+E:\mySolution\MySolution2\과제_201730206_김준범\bin\Debug\과제_201730206_김준범.pdb
+E:\mySolution\MySolution2\과제_201730206_김준범\obj\Debug\과제_201730206_김준범.csproj.AssemblyReference.cache
+E:\mySolution\MySolution2\과제_201730206_김준범\obj\Debug\과제_201730206_김준범.AlarmForm.resources
+E:\mySolution\MySolution2\과제_201730206_김준범\obj\Debug\과제_201730206_김준범.ID_PW_BookForm.resources
+E:\mySolution\MySolution2\과제_201730206_김준범\obj\Debug\과제_201730206_김준범.ImageCutForm.resources
+E:\mySolution\MySolution2\과제_201730206_김준범\obj\Debug\과제_201730206_김준범.Main.resources
+E:\mySolution\MySolution2\과제_201730206_김준범\obj\Debug\과제_201730206_김준범.Properties.Resources.resources
+E:\mySolution\MySolution2\과제_201730206_김준범\obj\Debug\과제_201730206_김준범.ScreenCaptureForm.resources
+E:\mySolution\MySolution2\과제_201730206_김준범\obj\Debug\과제_201730206_김준범.StopWatchForm.resources
+E:\mySolution\MySolution2\과제_201730206_김준범\obj\Debug\과제_201730206_김준범.WeatherForm.resources
+E:\mySolution\MySolution2\과제_201730206_김준범\obj\Debug\과제_201730206_김준범.csproj.GenerateResource.cache
+E:\mySolution\MySolution2\과제_201730206_김준범\obj\Debug\과제_201730206_김준범.csproj.CoreCompileInputs.cache
+E:\mySolution\MySolution2\과제_201730206_김준범\obj\Debug\과제_201730206_김준범.exe
+E:\mySolution\MySolution2\과제_201730206_김준범\obj\Debug\과제_201730206_김준범.pdb

@@ -1,0 +1,16 @@
+E:\mySolution\MySolution2\TestJB\bin\Debug\TestJB.exe.config
+E:\mySolution\MySolution2\TestJB\bin\Debug\TestJB.exe
+E:\mySolution\MySolution2\TestJB\bin\Debug\TestJB.pdb
+E:\mySolution\MySolution2\TestJB\obj\Debug\과제_201730206_김준.csproj.AssemblyReference.cache
+E:\mySolution\MySolution2\TestJB\obj\Debug\TestJB.AlarmForm.resources
+E:\mySolution\MySolution2\TestJB\obj\Debug\TestJB.ID_PW_BookForm.resources
+E:\mySolution\MySolution2\TestJB\obj\Debug\TestJB.ImageCutForm.resources
+E:\mySolution\MySolution2\TestJB\obj\Debug\TestJB.Main.resources
+E:\mySolution\MySolution2\TestJB\obj\Debug\TestJB.Properties.Resources.resources
+E:\mySolution\MySolution2\TestJB\obj\Debug\TestJB.ScreenCaptureForm.resources
+E:\mySolution\MySolution2\TestJB\obj\Debug\TestJB.StopWatchForm.resources
+E:\mySolution\MySolution2\TestJB\obj\Debug\TestJB.WeatherForm.resources
+E:\mySolution\MySolution2\TestJB\obj\Debug\과제_201730206_김준.csproj.GenerateResource.cache
+E:\mySolution\MySolution2\TestJB\obj\Debug\과제_201730206_김준.csproj.CoreCompileInputs.cache
+E:\mySolution\MySolution2\TestJB\obj\Debug\TestJB.exe
+E:\mySolution\MySolution2\TestJB\obj\Debug\TestJB.pdb
